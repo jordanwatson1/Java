@@ -1,2 +1,2 @@
 # Java
-Projects I have completed throughout my bachelors in Computer Science.
+Some of the projects I have completed throughout my undergrad in Computer Science. Specifically Java.
